@@ -27,6 +27,11 @@ manager.
 1. Run `ant` to build
 2. You can clean `bin` and `dist` by using `ant clean`
 
+### Running 
+
+1. A shortcut to `java -jar` is `ant run`
+
+
 ## Fork me
 
 You are free to use this project as template for your Desktop and Applet programs. 
