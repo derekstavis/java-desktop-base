@@ -4,6 +4,11 @@ This project aims to be a simple boilerplate to create Java Desktop
 projects that's backed by Ant as build system and Ivy as dependency
 manager.
 
+## Based on
+
+* Ant 1.9.2
+* Ivy 2.3.0
+
 ## How it works
 
 1. Fork this repo
